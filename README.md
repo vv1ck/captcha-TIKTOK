@@ -4,10 +4,10 @@
 - A simple script that encrypts your TikTok information
 - Like username and password
 
-2- captcha-TIKTOK.p
+2- captcha-TIKTOK.py
 - Skip the captcha for Tik Tok
 
-3- LoGIN.py
+3- Login.py
 - The login Api for the Tik Tok application
 
 - By JoKeR
