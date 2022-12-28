@@ -1,9 +1,9 @@
 # captcha-TIKTOK
 1- TIKTOK-encryption.py
 
-- A simple script that encrypts your TikTok information
-- Like username and password
-
+- This tool is for TikTok encryption, you can encrypt the username and all the password when TikTok requests it in your program
+- You can also encrypt messages in TikTok format in case you need to, in addition to decrypting messages received from TikTok
+-
 2- captcha-TIKTOK.py
 - Skip the captcha for Tik Tok
 
